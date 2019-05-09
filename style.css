@@ -1,0 +1,53 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: bold;
+}
+nav{
+    float: right;
+   
+}
+ul{
+    display: inline;
+}
+li{
+    list-style: none; 
+    display: inline;
+    padding-right: 15px;
+}
+figure{
+    padding: 10px;
+}
+.logo{
+    padding-left: 3px;
+}
+figcaption{
+    color: #f797af;
+}
+.center{
+    width: 30%;
+ text-align: center;
+    
+}
+button{
+    background-color: #f797af;
+    color: white;
+    padding: 1em 4em;
+    font-size: 18px;
+    border: none;
+}
+.fas{
+    color: gold;
+}
+#id{
+    color: white;
+}
+body{
+    background: #ffffff;
+}
+ 
+
+
+
+
+
